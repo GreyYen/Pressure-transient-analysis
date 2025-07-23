@@ -3,43 +3,36 @@
 
 This project simulates and analyzes pressure transient curves in reservoir engineering using synthetic data.
 
-## 📁 Features
+# Features
 
 - CSV + LAS data loading
 - Pressure & Derivative plot generation
 - Clean modular structure
 - Ready for well-test interpretation use
 
-## 📊 Dataset
+# How to Run
 
-Synthetic data simulates:
-- 4+ pressure peaks
-- Realistic well behavior
-
-## 🔧 How to Run
-
-1. **Install dependencies**
+1. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-2. **Run analysis**
+2. Run analysis
 ```bash
 python main.py
 ```
 
 Output is saved to `plots/`.
 
-## 🧪 Dependencies
+#Dependencies
 
 - `numpy`
 - `pandas`
 - `matplotlib`
 - `lasio`
 
-## 📂 Project Structure
+#Project Structure
 
-```
 pressure-transient-analysis/
 ├── data/
 ├── plots/
@@ -47,9 +40,9 @@ pressure-transient-analysis/
 ├── main.py
 ├── requirements.txt
 └── README.md
-```
 
-## 🧑‍💻 Author
+
+# 🧑‍💻 Author
 
 Ayush Yenprediwar  
 B.Tech Petroleum Engineering  
