@@ -42,7 +42,7 @@ pressure-transient-analysis/
 └── README.md
 
 
-# 🧑‍💻 Author
+# Author
 
 Ayush Yenprediwar  
 B.Tech Petroleum Engineering  
